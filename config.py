@@ -1,0 +1,7 @@
+customhost = "jack-1.cwfxn8twy9oa.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "jackadmin"
+customdb = "JackWeb"
+custombucket = "jack-web"
+customregion = "us-east-1"
+customtable = "employee"
